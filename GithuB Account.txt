@@ -1,3 +1,0 @@
-username: PROJECTAPI
-email: anemr@ntmcs.com
-password: P@ssw0rd@2018

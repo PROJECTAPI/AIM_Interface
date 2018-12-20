@@ -1,0 +1,1 @@
+If you are willing to import data from an excel file, all the dates and times columns should be set as TEXT inside the Excel file before doing it

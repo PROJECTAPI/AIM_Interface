@@ -1,0 +1,7 @@
+git push --set-upstream origin API_PROJECT_BRANCH
+
+
+https://gitlab.com/APIPROJECT/APIPROJECT.git
+
+
+SSH Key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDL/mKSFDLY9YvDw5P/rPtU/WrRoVNarVYLoeihA0bbMB2jiCYuVhvzHBId6mhD/hx8ZaFDOQCl7PAyWdjQBOxAcFhyPEcJzzvofufqERyYwxMBn34hl5iSYSyD5YkNzqFAaP

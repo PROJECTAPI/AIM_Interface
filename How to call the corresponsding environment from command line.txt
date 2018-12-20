@@ -1,2 +1,4 @@
 
 C:\>msbuild inetpub\wwwroot\ResourceSchedulingApi\ntm_api\ApiProject.sln /p:Configuration=Reg
+
+2
